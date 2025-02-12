@@ -5,6 +5,11 @@ RENCANA KONTEN JAYA
   *Matrix
     ^ Determinan
     ^ 3 x 3
+    ^ Invers
+
 - Fisdas
+  *Hukum Coulumb
 - Pengantar Komputer dan Software
+- Kimdas
+- Biologi
 
