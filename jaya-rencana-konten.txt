@@ -3,6 +3,10 @@ RENCANA KONTEN JAYA
 - Matdas
   *Logaritma
   *Matrix
+     ^ 3 X 3
+     ^ Invers
 - Fisdas
+  *Hukum Coulumb
 - Pengantar Komputer dan Software
 - Kimdas
+- Biologi
