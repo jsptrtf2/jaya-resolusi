@@ -3,6 +3,8 @@ RENCANA KONTEN JAYA
 - Matdas
   *Logaritma
   *Matrix
+    ^ Determinan
+    ^ 3 x 3
 - Fisdas
 - Pengantar Komputer dan Software
-- Kimdas
+
