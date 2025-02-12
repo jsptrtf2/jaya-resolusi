@@ -6,6 +6,7 @@ RENCANA KONTEN JAYA
     ^ Determinan
     ^ 3 x 3
     ^ Invers
+    ^ 2 x 2
 
 - Fisdas
   *Hukum Coulumb
