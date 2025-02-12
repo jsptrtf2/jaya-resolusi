@@ -1,5 +1,7 @@
 RENCANA KONTEN JAYA
 
 - Matdas
+  *Logaritma
+  *Matrix
 - Fisdas
 - Kimdas
